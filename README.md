@@ -12,9 +12,9 @@ python calculadora.py
 
 - Suma
 - Resta
-- Multiplicacion
-- Division
+- Multiplicación
+- División
 
-## Requistos
+## Requisitos
 
 - Python 3.8 o superior
